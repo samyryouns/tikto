@@ -1,0 +1,6 @@
+{
+  "name": "TikTok 50M Growth Studio",
+  "description": "Interactive TikTok 50 Million follower growth simulator, viral video studio, analytics calculator, and creator strategies in Kurdish & English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
